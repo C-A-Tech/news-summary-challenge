@@ -51,8 +51,8 @@ To make my news reading more fun
 
 ### Headlines page
 
-![Headlines page mockup](/images/headline-page.png)
+![Headlines page mockup](/public/images/headline-page.png)
 
 ### Article summary page
 
-![Article page mockup](/images/article-page.png)
+![Article page mockup](/public/images/article-page.png)
