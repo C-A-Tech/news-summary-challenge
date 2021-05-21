@@ -70,7 +70,7 @@ article img {
   border-left: #D8DBDF 2px solid;
 }
 
-.centered {
+.no-article-selected {
   position: absolute;
   top: 50%;
   left: 50%;
@@ -78,7 +78,11 @@ article img {
   text-align: center;
 }
 
-.centered img {
+.no-article-selected img {
   width: 150px;
   border-radius: 50%;
+}
+
+.read-article {
+  visibility: hidden;
 }
